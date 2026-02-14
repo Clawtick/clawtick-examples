@@ -4,7 +4,7 @@ Production-ready examples for integrating ClawTick with popular AI frameworks.
 
 ## 📦 Available Templates
 
-### 1. [LangChain](https://github.com/clawtick/clawtick-examples/tree/master/langchain)
+### 1. [LangChain](https://github.com/clawtick/clawtick-examples/tree/main/langchain)
 Complete LangChain agent with custom tools and FastAPI webhook endpoint.
 
 **Features:**
@@ -18,7 +18,7 @@ Complete LangChain agent with custom tools and FastAPI webhook endpoint.
 - Information retrieval
 - Multi-step workflows
 
-### 2. [CrewAI](https://github.com/clawtick/clawtick-examples/tree/master/crewai)
+### 2. [CrewAI](https://github.com/clawtick/clawtick-examples/tree/main/crewai)
 Multi-agent CrewAI workflow with configurable crew types.
 
 **Features:**
@@ -31,7 +31,7 @@ Multi-agent CrewAI workflow with configurable crew types.
 - Research and analysis
 - Report generation
 
-### 3. [Custom Agent](https://github.com/clawtick/clawtick-examples/tree/master/custom-agent)
+### 3. [Custom Agent](https://github.com/clawtick/clawtick-examples/tree/main/custom-agent)
 Minimal example using OpenAI API directly.
 
 **Features:**
@@ -44,7 +44,7 @@ Minimal example using OpenAI API directly.
 - Text generation
 - Quick prototypes
 
-### 4. [Docker](https://github.com/clawtick/clawtick-examples/tree/master/docker)
+### 4. [Docker](https://github.com/clawtick/clawtick-examples/tree/main/docker)
 Docker and docker-compose configuration for easy deployment.
 
 **Features:**
