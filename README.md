@@ -300,7 +300,7 @@ Expected response format:
 ## 💬 Support
 
 - **GitHub Issues**: [clawtick/examples/issues](https://github.com/clawtick/examples/issues)
-- **Discord**: [ClawTick Community](https://discord.gg/clawtick)
+- **Discord**: [ClawTick Community](https://discord.gg/maKkUTCK)
 - **Email**: support@clawtick.com
 
 ## 📄 License
