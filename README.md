@@ -309,4 +309,4 @@ MIT License - see individual example directories for details.
 
 ---
 
-**Need help?** Check out our [detailed guide](../INTEGRATION_TEMPLATES.md) or reach out on Discord!
+**Need help?** Check out our [detailed guide](https://github.com/clawtick/clawtick-examples/tree/main/INTEGRATION_TEMPLATES.md) or reach out on Discord!
